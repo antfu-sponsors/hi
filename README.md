@@ -8,7 +8,7 @@ In this GitHub organization, I have several private working-in-progress projects
 
 When I feel one project is good enough to be publizied, I might transfer it to my main account [@antfu](https://github.com/antfu), or form a new organization with its collaborators, depends on the project. Either of the two ways, your name will be featured in the project's README as its Sponsors.
 
-[Sponsor me](https://github.com/sponsors/antfu) to grant the access to them if haven't.
+[Sponsor me](https://github.com/sponsors/antfu) if you like my work and get interested in this program.
 
 <br><br>
 <samp>Thank you.</samp><br>
