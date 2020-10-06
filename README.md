@@ -18,13 +18,8 @@ You may also find my projects that already open-sourced in [this page](https://a
 
 <hr>
 
-<samp>
-<b>Projects from this program</b><br>
+### Projects from this program
   
-<a href='https://github.com/antfu/iroiro'>iroiro</a> - a beautiful colors lookup<br>
-<a href='https://github.com/antfu/rhein.'>rhein.</a> - free layout text editor<br>
-<a href='https://github.com/antfu/iroiro'>export-size</a> - analyize export bundle size<br>
-  
-</samp>
-
-
+<a href='https://github.com/antfu/iroiro'><samp>iroiro</samp></a> - a beautiful colors lookup<br>
+<a href='https://github.com/antfu/rhein.'><samp>rhein.</samp></a> - layout-free text editor<br>
+<a href='https://github.com/antfu/iroiro'><samp>export-size</samp></a> - analyize export bundle size<br>
