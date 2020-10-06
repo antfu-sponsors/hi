@@ -19,7 +19,7 @@ You may also find my projects that already open-sourced in [this page](https://a
 <hr>
 
 <samp>
-<b>Projects from this program<b><br>
+<b>Projects from this program</b><br>
   
 <a href='https://github.com/antfu/iroiro'>iroiro</a> - a beautiful colors lookup<br>
 <a href='https://github.com/antfu/rhein.'>rhein.</a> - free layout text editor<br>
