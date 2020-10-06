@@ -12,8 +12,19 @@ You may also find my projects that already open-sourced in [this page](https://a
 
 [Sponsor me](https://github.com/sponsors/antfu) if you like my work and get interested in this program.
 
-<br><br>
+<br>
 <samp>Thank you.</samp><br>
 <samp>Anthony Fu</samp>
+
+<hr>
+
+<samp>
+<b>Projects from this program<b><br>
+  
+<a href='https://github.com/antfu/iroiro'>iroiro</a> - a beautiful colors lookup<br>
+<a href='https://github.com/antfu/rhein.'>rhein.</a> - free layout text editor<br>
+<a href='https://github.com/antfu/iroiro'>export-size</a> - analyize export bundle size<br>
+  
+</samp>
 
 
