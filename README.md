@@ -22,4 +22,4 @@ You may also find my projects that already open-sourced in [this page](https://a
   
 <a href='https://github.com/antfu/iroiro'><samp>iroiro</samp></a> - a beautiful colors lookup<br>
 <a href='https://github.com/antfu/rhein.'><samp>rhein.</samp></a> - layout-free text editor<br>
-<a href='https://github.com/antfu/iroiro'><samp>export-size</samp></a> - analyize export bundle size<br>
+<a href='https://github.com/antfu/export-size'><samp>export-size</samp></a> - analyize export bundle size<br>
