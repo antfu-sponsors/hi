@@ -20,6 +20,7 @@ You may also find my projects that already open-sourced in [this page](https://a
 
 ### Projects from this program
   
+<a href='https://github.com/knightlyjs/knightly'><samp>knightly</samp></a> - nightly builds for projects and PRs<br>
 <a href='https://github.com/vue-reactivity'><samp>vue-reactivity</samp></a> - reactivity utils set for @vue/reactivity<br>
 <a href='https://github.com/antfu/iroiro'><samp>iroiro</samp></a> - a beautiful colors lookup<br>
 <a href='https://github.com/antfu/rhein.'><samp>rhein.</samp></a> - layout-free text editor<br>
