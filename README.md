@@ -20,6 +20,7 @@ You may also find my projects that already open-sourced in [this page](https://a
 
 ### Projects from this program
   
+<a href='https://github.com/slidevjs/slidev'><samp>Slidev</samp></a> - Presentation Slides for Developers<br>
 <a href='https://github.com/antfu/p5i'><samp>p5i</samp></a> - p5.js, but with more friendly instance mode APIs<br>
 <a href='https://github.com/antfu/100'><samp>100</samp></a> - My 100-day challenges<br>
 <a href='https://github.com/knightlyjs/knightly'><samp>knightly</samp></a> - nightly builds for projects and PRs<br>
